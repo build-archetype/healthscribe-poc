@@ -1,5 +1,5 @@
 {
-    "name": "aws-healthscribe-demo",
+    "name": "build-archetype-healthscribe-demo",
     "version": "1.0.0",
     "scripts": {
         "dev": "vite",
